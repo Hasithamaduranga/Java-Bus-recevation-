@@ -1,2 +1,2 @@
-# Java-Bus-recevation-
-This project is developed by using Java with MVC articher with HTML, CSS  as frontend technologies. this project is done by 
+# Online-Bus-Reservation-system
+This is the project we did for the Object Oriented Programming Module in Second Year First Semester
